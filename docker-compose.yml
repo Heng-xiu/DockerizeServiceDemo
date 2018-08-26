@@ -1,0 +1,20 @@
+version: "3.3"
+
+services:
+  mongo:
+    image: mongo:latest
+    container_name: spring-mongo
+    ports:
+    - "27017:27017"
+
+  spring:
+    image: xiuxiumycena/csci6050-webflux-demo:0.0.5
+    ports:
+    - "8080:8080"
+    depends_on:
+    - mongo
+    links:
+    - mongo
+
+
+  
