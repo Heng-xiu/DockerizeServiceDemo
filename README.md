@@ -1,6 +1,6 @@
-# SWETermProject2018Service
+# DockerizeServiceDemo
 ***
-A real-time system focus on solving how people access with Movie theater.
+A simple demo.
 ### Index ###
 ***
 1. Getting Start
@@ -59,14 +59,10 @@ TODO:
 Q.How do you try to demo your project?
 A.TODO
 
-Q.Are you guys planing to use Docker?
-A.We currently work on it.
 ### Contribute ###
 ***
-[Dan Ngo](https://github.com/danngo342)
 [Heng-Shiou Sheu](https://github.com/Heng-xiu)
-[Matt Kim]()
-[Michael Mazzone](https://github.com/GitMazzone)
+
 
 ### Tips ###
 ***
